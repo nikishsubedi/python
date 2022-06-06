@@ -1,0 +1,4 @@
+Product,Price,Quantity,Total
+Momo 2 2 4
+momo 4 4 16
+fanta,100,2,200
